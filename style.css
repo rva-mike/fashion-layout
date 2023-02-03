@@ -149,7 +149,7 @@ body {
 .product-des {
     margin: 4vw 0;
     width: 90%;
-    font-size: 1.2vw;
+    font-size: 1.4vw;
     line-height: 2vw;
     color: rgba(0, 0, 0, 0.5);
 }
@@ -158,7 +158,7 @@ body {
     text-decoration: none;
     color: #000;
     text-transform: capitalize;
-    font-size: 1.2vw;
+    font-size: 2.0vw;
 }
 
 .nxt-btn {
@@ -166,7 +166,7 @@ body {
     background: none;
     display: flex;
     margin-left: auto;
-    margin-top: -1.2vw;
+    margin-top: -2.0vw;
     margin-right: 1vw;
     cursor: pointer;
     justify-content: center;
