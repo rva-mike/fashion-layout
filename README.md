@@ -24,6 +24,7 @@ This is a layout created with modern styling in mind. The main languages used fo
   ### Desktop
   ![Screenshot 2023-02-03 161716](https://user-images.githubusercontent.com/105617274/216712879-e576b7ef-510a-4b64-865d-b25538c39203.png)
 
+Without left side bar
 ![Screenshot 2023-02-03 161905](https://user-images.githubusercontent.com/105617274/216712892-d1fc12e7-5b2d-4e7b-9674-2108f20739dd.png)
 
 
